@@ -1,0 +1,11 @@
+{
+  "name": "apis-series",
+  "version": "1.0.0",
+  "description": "api categories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sik-Wa",
+  "license": "ISC"
+}
